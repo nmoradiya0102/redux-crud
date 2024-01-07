@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "productName": "json-server",
+      "price": "typicode",
+      "id": 1
+    },
+    {
+      "productName": "watch",
+      "price": 200,
+      "id": 2
+    },
+    {
+      "productName": "ring",
+      "price": 200,
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
